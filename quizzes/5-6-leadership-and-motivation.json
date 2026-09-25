@@ -1,0 +1,1387 @@
+{
+  "id": "5-6-leadership-and-motivation",
+  "title": "5.6 Leadership and Motivation – Concepts and Theories",
+  "subtitle": "Fundamentals of Management — Leadership styles/theories and Motivation theories",
+  "questions": [
+    {
+      "q": "According to Davis, leadership is the ability to persuade others to seek defined objectives enthusiastically, describing it as the human factor which binds a group together and motivates it towards:",
+      "options": [
+        "Profits only",
+        "Goals",
+        "Shareholder dividends",
+        "Legal compliance"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Haimann, leadership is the process by which an executive imaginatively directs, guides and influences the work of others in choosing and attaining specified goals by mediating between the individuals and the:",
+      "options": [
+        "Shareholders",
+        "Organization",
+        "Government",
+        "Competitors"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Koontz and O'Donnell, leadership is the ability of a manager to induce subordinates to work with confidence and:",
+      "options": [
+        "Suspicion",
+        "Indifference",
+        "Fear",
+        "Zeal"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to the text, the essence of leadership is:",
+      "options": [
+        "Authority",
+        "Followership",
+        "Isolation",
+        "Punishment"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Leadership process is described as an interplay of three elements: the leader, the follower and the:",
+      "options": [
+        "Government",
+        "Situation",
+        "Competitor",
+        "Shareholder"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which characteristic of leadership states that there can be no leadership without followers?",
+      "options": [
+        "Leadership presupposes the existence of a group of followers",
+        "Leadership arises out of a common goal",
+        "Leadership is a continuous process",
+        "Leadership is a personal quality"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which characteristic of leadership notes that leadership style will differ depending on the specific set of circumstances at a given time?",
+      "options": [
+        "Leadership is a personal quality",
+        "Leadership presupposes followers",
+        "Leadership arises out of a common goal",
+        "Leadership is related to a particular situation"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which quality of a successful leader refers to good personality, charming manners, and the ability to work hard as a member of the group?",
+      "options": [
+        "Physical energy and stamina",
+        "Sense of responsibility",
+        "Vision and foresight",
+        "Intelligence"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which quality of a successful leader involves the ability to think scientifically, analyse accurately, and interpret problems clearly and concisely?",
+      "options": [
+        "Intelligence",
+        "Physical energy and stamina",
+        "Human relations",
+        "Open-mindedness"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which quality of a successful leader involves looking forward and taking into account happenings about to occur in the future?",
+      "options": [
+        "Self-confidence",
+        "Initiative",
+        "Sense of responsibility",
+        "Vision and foresight"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which quality of a successful leader is described as the strong, crucial motivation to keep accomplishing something by starting suitable actions at the proper time?",
+      "options": [
+        "Initiative",
+        "Human relations",
+        "Open-mindedness",
+        "Vision and foresight"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which quality of a successful leader is essential to motivate subordinates and boost their morale, requiring conceptual clarity about decisions?",
+      "options": [
+        "Self-confidence",
+        "Open-mindedness",
+        "Sense of responsibility",
+        "Initiative"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which quality of a successful leader involves being ready to absorb new ideas and accommodate others' viewpoints?",
+      "options": [
+        "Sense of responsibility",
+        "Physical energy",
+        "Self-confidence",
+        "Open-mindedness or flexibility"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which quality of a successful leader involves being prepared to shoulder responsibility for the consequences of steps taken?",
+      "options": [
+        "Open-mindedness",
+        "Sense of responsibility",
+        "Human relations",
+        "Vision and foresight"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which quality of a successful leader involves the ability to deal with people, secure their willing cooperation, and develop social understanding?",
+      "options": [
+        "Human relations",
+        "Intelligence",
+        "Physical energy and stamina",
+        "Initiative"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Leadership styles based on the use of authority can be classified into autocratic, participative and:",
+      "options": [
+        "Transformational",
+        "Free-rein",
+        "Situational",
+        "Transactional"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "An autocratic leader centralises power in himself, takes all decisions without consulting subordinates, and dominates the group through:",
+      "options": [
+        "Coercion and command",
+        "Complete delegation",
+        "Consultation and consensus",
+        "Passive observation"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which of the following is listed as an advantage of autocratic leadership?",
+      "options": [
+        "It automatically ensures high morale among subordinates",
+        "It maximises the creative contribution of subordinates",
+        "It permits quick decision making",
+        "It requires no supervision by the leader"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which of the following is listed as a disadvantage of autocratic leadership?",
+      "options": [
+        "It requires extensive consultation before every decision",
+        "It slows down decision-making significantly",
+        "It leads to frustration, low morale and conflict among subordinates",
+        "It reduces the leader's control over subordinates"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "A democratic or participative leader takes decisions in consultation with subordinates and:",
+      "options": [
+        "Relinquishes the leadership position entirely",
+        "Centralizes all authority in himself alone",
+        "Avoids all forms of communication with subordinates",
+        "Decentralizes authority, allowing subordinates to share power"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which of the following is listed as an advantage of democratic/participative leadership?",
+      "options": [
+        "It cultivates the decision-making ability of subordinates",
+        "It guarantees unanimous agreement on every issue",
+        "It eliminates the need for any leader input",
+        "It always yields the fastest possible decisions"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which of the following is listed as a disadvantage of democratic/participative leadership?",
+      "options": [
+        "It is time-consuming and may result in delays in decision-making",
+        "It reduces job satisfaction of subordinates",
+        "It always results in poor quality decisions",
+        "It eliminates the need for any communication skills"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Free-rein or laissez-faire leadership involves complete delegation of authority so that:",
+      "options": [
+        "The leader retains all decision-making power",
+        "No decisions are ever made by anyone",
+        "Subordinates themselves take decisions",
+        "The government takes over decision-making"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Under free-rein leadership, the leader avoids power and relinquishes the leadership position, serving only as a contact to bring:",
+      "options": [
+        "Punishments and threats to subordinates",
+        "Strict rules and regulations to subordinates",
+        "Constant supervision to subordinates",
+        "Information and resources needed by subordinates"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "A disadvantage of free-rein leadership is that subordinates may move in different directions and work at cross purposes, which may degenerate into:",
+      "options": [
+        "Immediate consensus",
+        "Chaos",
+        "Increased centralization",
+        "Perfect harmony"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the text, free-rein leadership may be appropriate when subordinates are well trained, highly knowledgeable, self-motivated and ready to assume:",
+      "options": [
+        "Isolation",
+        "Punishment",
+        "Responsibility",
+        "Autocratic control"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The concept of leadership continuum, highlighting a range of possible leadership styles from boss-centered to subordinate-centered, was developed by:",
+      "options": [
+        "George Terry",
+        "Rensis Likert",
+        "Blake and Mouton",
+        "Tannenbaum and Schmidt"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "On the leadership continuum, at the left extreme is the 'boss centered' (autocratic) style, while at the right extreme is the:",
+      "options": [
+        "'Shareholder centered' style",
+        "'Competitor centered' style",
+        "'Subordinate centered' (free-rein) style",
+        "'Government centered' style"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "As one moves from the left extreme to the right extreme of the leadership continuum, the degree of control goes down and the freedom of subordinates:",
+      "options": [
+        "Becomes entirely irrelevant",
+        "Goes up",
+        "Also goes down",
+        "Remains exactly the same"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "On the leadership continuum, the style where the manager makes a decision and simply announces it is described as an extreme form of:",
+      "options": [
+        "Democratic leadership",
+        "Free-rein leadership",
+        "Servant leadership",
+        "Autocratic leadership"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "On the leadership continuum, the style where the manager defines limits and asks the group to make the decision within those limits reflects:",
+      "options": [
+        "Complete absence of any leader involvement",
+        "Greater freedom for subordinates than earlier styles on the continuum",
+        "The most extreme autocratic style on the continuum",
+        "A style identical to the boss simply announcing a decision"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Among the factors a manager should consider when choosing a leadership style on the continuum, 'forces in the manager' include the manager's value system, confidence in subordinates, leadership inclinations and tolerance of:",
+      "options": [
+        "Competition",
+        "Advertising",
+        "Ambiguity",
+        "Technology"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The Managerial Grid leadership model, based on two dimensions of concern for people and concern for production, was developed by:",
+      "options": [
+        "Douglas McGregor",
+        "Tannenbaum and Schmidt",
+        "Rensis Likert",
+        "Robert Blake and Jane Mouton"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "In the Managerial Grid, the (1,1) style, showing low concern for both production and people, is known as:",
+      "options": [
+        "The Country Club style",
+        "The Impoverished or Indifferent style",
+        "The Produce or Perish style",
+        "The Team style"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "In the Managerial Grid, the (1,9) style, showing low concern for production but high concern for people's comfort and security, is known as:",
+      "options": [
+        "The Country Club style",
+        "The Middle-of-the-road style",
+        "The Impoverished style",
+        "The Produce or Perish style"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "In the Managerial Grid, the (9,1) style, an authoritarian style with high concern for production but low concern for people, is known as:",
+      "options": [
+        "The Middle-of-the-road style",
+        "The Produce, Dictatorial or Perish style",
+        "The Country Club style",
+        "The Team style"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "In the Managerial Grid, the (9,9) style, showing high concern for both people and production, is known as:",
+      "options": [
+        "The Country Club style",
+        "The Middle-of-the-road style",
+        "The Team or Sound style",
+        "The Impoverished style"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "In the Managerial Grid, the (5,5) style, which balances competing organisational goals and worker needs at a medium level, is known as:",
+      "options": [
+        "The Country Club style",
+        "The Middle-of-the-road or Status-quo style",
+        "The Team style",
+        "The Impoverished style"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Rensis Likert and his associates at the University of Michigan developed a continuum of how many systems of management?",
+      "options": [
+        "Five",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Under Likert's System 1 (Exploitative Autocratic), the subordinates have absolutely no say in the decision-making process, and managers believe in:",
+      "options": [
+        "Full participation and open dialogue",
+        "Threats and punishments to get things done",
+        "Self-appraisal and mutual trust",
+        "Two-way, informal communication"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Under Likert's System 2 (Benevolent Autocratic), managers adopt a paternalistic approach and use a combination of rewards and harsh treatment, known as the:",
+      "options": [
+        "Two-way communication approach",
+        "Self-appraisal approach",
+        "Carrot and stick approach",
+        "Group-oriented control approach"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Under Likert's System 3 (Consultative), managers set goals and issue orders after discussing them with subordinates, and there is:",
+      "options": [
+        "Two-way communication in the organisation",
+        "Only downward, formal communication",
+        "Absolutely no communication with subordinates",
+        "Complete distrust of subordinates"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Under Likert's System 4 (Democratic), supervision and control are group-oriented, and subordinates are permitted self-appraisal based on:",
+      "options": [
+        "Goals imposed by external regulators",
+        "Mutually set goals",
+        "Goals set exclusively by top management",
+        "No goals at all"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Likert, which system represents the ideal system towards which organisations should work?",
+      "options": [
+        "System 1 (Exploitative Autocratic)",
+        "System 3 (Consultative)",
+        "System 4 (Democratic)",
+        "System 2 (Benevolent Autocratic)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The integrated, contingency model of leadership consisting of four main variables was proposed by:",
+      "options": [
+        "Douglas McGregor",
+        "George Terry",
+        "Rensis Likert",
+        "Robert Blake"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the contingency approach to leadership, which of the following is one of the four main variables identified?",
+      "options": [
+        "The Competitors",
+        "The Government",
+        "The Followers",
+        "The Shareholders"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to the contingency approach, when the degree of interdependence between specialised units is high, which relationships become essential for coordination?",
+      "options": [
+        "Lateral relationships",
+        "Only external client relationships",
+        "No relationships at all",
+        "Only vertical, top-down relationships"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to the contingency approach, in the case of highly structured tasks, the leader tends to have more influence because employees' work behaviour is:",
+      "options": [
+        "Specified and major decisions are centralised",
+        "Irrelevant to task completion",
+        "Left completely undefined",
+        "Determined solely by subordinates"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The phrase “servant leadership” was coined by Robert K. Greenleaf in an essay first published in 1970 titled:",
+      "options": [
+        "The Fifth Discipline",
+        "The Leader as Servant",
+        "The Servant as Leader",
+        "Leadership and the New Science"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Greenleaf, the servant-leader is servant first, and it begins with the natural feeling that one wants to:",
+      "options": [
+        "Serve, to serve first",
+        "Command, to command first",
+        "Control, to control first",
+        "Compete, to compete first"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A servant-leader focuses primarily on the growth and well-being of people and the communities to which they belong, sharing power and putting the needs of others:",
+      "options": [
+        "Aside entirely",
+        "Last",
+        "First",
+        "Under strict confidentiality"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which of the following is listed as a principle of servant leadership?",
+      "options": [
+        "Discourage diversity of thought",
+        "Create a culture of trust",
+        "Foster a selfish mindset",
+        "Concentrate all power at the top of the pyramid"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the text, one view of leadership effectiveness holds that it is a function of the personal qualities or traits of individuals who assume the role of leadership; this is known as the:",
+      "options": [
+        "Contingency approach",
+        "Trait approach",
+        "Situational approach",
+        "Behavioural approach"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The view that leadership effectiveness is a matter of what leaders do and how they behave, focusing on productivity orientation and employee satisfaction orientation, is known as the:",
+      "options": [
+        "Situational approach",
+        "Behavioural approach",
+        "Trait approach",
+        "Servant approach"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The view that leadership effectiveness is a function of interaction among the leader, the group of followers and the task situation is known as the:",
+      "options": [
+        "Situational or contingency approach",
+        "Trait approach",
+        "Servant approach",
+        "Behavioural approach"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to the text, effective leadership requires certain basic qualities among persons who assume the role of leaders, but these qualities are:",
+      "options": [
+        "Entirely sufficient on their own",
+        "Necessary but not sufficient",
+        "Irrelevant to leadership effectiveness",
+        "Only relevant in crisis situations"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which measure for developing leadership ability involves exposing managers to simulated and real leadership situations, providing immediate feedback on their performance?",
+      "options": [
+        "Leadership training",
+        "Autonomy and accountability",
+        "Opportunities for interaction",
+        "Internal organisational exposure"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which measure for developing leadership ability involves putting managers in charge of committees for project implementation, coordination and control?",
+      "options": [
+        "Autonomy and accountability",
+        "Internal organisational exposure",
+        "Leadership training",
+        "Opportunities for interaction"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which measure for developing leadership ability involves allowing managers a large amount of freedom to evolve their own methods, supported by adequate authority and status?",
+      "options": [
+        "Opportunities for interaction",
+        "Internal organisational exposure",
+        "Leadership training",
+        "Autonomy and accountability"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which measure for developing leadership ability involves managers having more intense and continuous contact with subordinates to guide, understand and support them?",
+      "options": [
+        "Opportunities for interaction",
+        "Leadership training",
+        "Internal organisational exposure",
+        "Autonomy and accountability"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The term 'motivation' has been derived from the word:",
+      "options": [
+        "Mobilise",
+        "Modulate",
+        "Motive",
+        "Modify"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Stephen Robbins, motivation is the willingness to exert high levels of effort towards organisational goals, conditioned by the effort's ability to satisfy some:",
+      "options": [
+        "Shareholder demands",
+        "Competitor strategies",
+        "Individual needs",
+        "Government regulations"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to the text, the process of motivation begins with the awareness of a:",
+      "options": [
+        "Punishment",
+        "Government policy",
+        "Need",
+        "Shareholder meeting"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Incentives are described in the text as the inducements which are used to:",
+      "options": [
+        "Punish underperformers only",
+        "Eliminate all employee needs",
+        "Motivate people",
+        "Reduce organisational output"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which characteristic of motivation states that it is based on human needs which generate within an individual, influencing behaviour and activities?",
+      "options": [
+        "Motivation may be financial or non-financial",
+        "Motivation is a psychological concept",
+        "Motivation is a continuous process",
+        "Motivation is total, not piece-meal"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which characteristic of motivation states that an employee is an indivisible unit and cannot be motivated by fulfilling some of his needs only partly?",
+      "options": [
+        "Motivation is a psychological concept",
+        "Motivation is total, not piece-meal",
+        "Motivation is a complex process",
+        "Motivation causes goal-directed behaviour"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to McGregor, as quoted in the text, man is a wanting animal; as soon as one of his needs is satisfied, another appears in its place, illustrating that motivation is:",
+      "options": [
+        "A continuous process",
+        "A one-time event",
+        "Entirely predictable",
+        "Identical for every individual"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which characteristic of motivation states that a person behaves in a way that helps satisfy his goals or needs, and will lose interest if the activity doesn't satisfy those needs?",
+      "options": [
+        "Motivation is a psychological concept",
+        "Motivation causes goal-directed behaviour",
+        "Motivation is total, not piece-meal",
+        "Motivation is a complex process"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Financial incentives such as pay, allowances, bonus and perquisites, and non-financial incentives such as recognition and responsibility, illustrate which characteristic of motivation?",
+      "options": [
+        "Motivation is total, not piece-meal",
+        "Motivation is a continuous process",
+        "Motivation may be financial or non-financial",
+        "Motivation causes goal-directed behaviour"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which characteristic of motivation notes that there is no universal theory or approach, and individuals differ in what motivates them?",
+      "options": [
+        "Motivation is a complex process",
+        "Motivation causes goal-directed behaviour",
+        "Motivation is a psychological concept",
+        "Motivation is total, not piece-meal"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which of the following is listed as an advantage of high motivation, related to how much and why employees want to perform an activity?",
+      "options": [
+        "Reduced job satisfaction",
+        "Higher efficiency",
+        "Greater resistance to change",
+        "Increased labour turnover"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the importance of motivation, motivated employees work wholeheartedly to apply their abilities, resulting in:",
+      "options": [
+        "Wastage of physical and financial resources",
+        "Reduced use of organisational facilities",
+        "Optimum utilisation of resources",
+        "Complete disregard for cost minimisation"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to the importance of motivation, high motivation leads to job satisfaction, which in turn results in:",
+      "options": [
+        "Greater resistance to organisational goals",
+        "Higher rates of employee resignation",
+        "Reduction in labour turnover",
+        "Increased labour absenteeism"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to the importance of motivation, motivational schemes create integration of individual interests with organisational objectives, fostering team spirit and:",
+      "options": [
+        "Increased labour unrest",
+        "Complete isolation of departments",
+        "Greater conflict between management and workers",
+        "Better industrial relations"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to the importance of motivation, an enterprise offering abundant incentives enjoys reputation in the labour market, resulting in:",
+      "options": [
+        "Greater difficulty in recruitment",
+        "Reduced applicant interest",
+        "Higher turnover among new hires",
+        "Easier selection of competent persons"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to the importance of motivation, properly motivated employees accept, introduce and implement organisational changes, which:",
+      "options": [
+        "Eliminates the need for any adaptation",
+        "Reduces organisational effectiveness",
+        "Facilitates change and keeps the organisation effective",
+        "Increases resistance to environmental changes"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Maslow's general theory of motivation is known as the:",
+      "options": [
+        "Equity Theory",
+        "Expectancy Theory",
+        "Need Hierarchy Theory",
+        "Two-Factor Theory"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "In Maslow's hierarchy, which needs are positioned at the base of the pyramid?",
+      "options": [
+        "Self-actualisation needs",
+        "Esteem needs",
+        "Physiological needs",
+        "Social needs"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "In Maslow's hierarchy, which needs are positioned at the apex of the pyramid?",
+      "options": [
+        "Self-actualisation needs",
+        "Safety needs",
+        "Social needs",
+        "Physiological needs"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Maslow's theory, a higher-level need does not become an active motivating force until the preceding lower-order needs are:",
+      "options": [
+        "At least partially satisfied",
+        "Replaced by financial incentives only",
+        "Completely eliminated from existence",
+        "Ignored entirely by the individual"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Maslow's theory, a satisfied need:",
+      "options": [
+        "Becomes an even stronger motivator than before",
+        "Is the only type of need that regulates behaviour",
+        "Automatically satisfies all other needs simultaneously",
+        "Ceases to influence human behaviour and is not a motivator"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Maslow's physiological needs, which include food, drink, air and sleep, are also known as:",
+      "options": [
+        "Growth needs",
+        "Secondary needs",
+        "Esteem needs",
+        "Survival needs"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to Maslow, once physiological needs are reasonably satisfied, a person wants protection from physical dangers and economic security, described as:",
+      "options": [
+        "Safety needs",
+        "Self-actualisation needs",
+        "Esteem needs",
+        "Social needs"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Maslow's social needs refer to the need for belonging, acceptance, love and affection, and are considered:",
+      "options": [
+        "Finite needs that are fully satisfied once achieved",
+        "Infinite, secondary needs not essential to preserve human life",
+        "Purely physiological in nature",
+        "Identical to safety needs"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Maslow's esteem needs are of two types: self-esteem and:",
+      "options": [
+        "Financial esteem only",
+        "Safety-related esteem",
+        "Physiological esteem",
+        "Esteem of others"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Maslow's self-actualisation needs are described as the desire of becoming what one is capable of becoming, and are classified as:",
+      "options": [
+        "A finite need satisfied quickly",
+        "The lowest priority need in the hierarchy",
+        "A purely physiological need",
+        "An infinite and growth need"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "A key criticism of Maslow's theory is that needs are not the only determinant of behaviour, since people also engage in behaviour connected to other factors like:",
+      "options": [
+        "Government regulation exclusively",
+        "Shareholder demands exclusively",
+        "Perceptions, expectations and experiences",
+        "Purely random chance with no cause"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "A criticism of Maslow's theory is that the hierarchy of needs is not always fixed, since for creative people like singers and painters, self-actualisation may become dominant even before:",
+      "options": [
+        "Financial incentives are provided",
+        "The individual joins an organisation",
+        "Lower-order needs are satisfied",
+        "Any needs whatsoever are felt"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Despite its criticisms, Maslow's theory has a common-sense appeal for managers and remains relevant because needs are important for understanding:",
+      "options": [
+        "Shareholder structure",
+        "Tax policy",
+        "Behaviour",
+        "Competitor pricing"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Herzberg's Two-Factor Theory was developed based on interviews of 200 engineers and accountants conducted in which U.S. city?",
+      "options": [
+        "New York",
+        "Pittsburgh",
+        "Chicago",
+        "Boston"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Herzberg, factors necessary to maintain a reasonable level of satisfaction, whose absence dissatisfies employees, are called:",
+      "options": [
+        "Growth needs",
+        "Motivating factors",
+        "Existence needs",
+        "Maintenance or hygiene factors"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which of the following is listed as a maintenance (hygiene) factor in Herzberg's theory?",
+      "options": [
+        "Recognition",
+        "Achievement",
+        "Advancement",
+        "Company Policy and Administration"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which of the following is listed as a motivating factor in Herzberg's theory?",
+      "options": [
+        "Salary",
+        "Responsibility",
+        "Working conditions",
+        "Job Security"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Herzberg, motivational factors are intrinsic parts of the job, and any increase in these factors will:",
+      "options": [
+        "Automatically cause dissatisfaction",
+        "Have no effect on performance whatsoever",
+        "Satisfy employees and help improve performance",
+        "Only affect maintenance seekers, not motivation seekers"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Herzberg, an individual who is motivated primarily by the nature of the task and has high tolerance for poor environmental factors is called a:",
+      "options": [
+        "Maintenance seeker",
+        "Motivation seeker",
+        "Equity seeker",
+        "Expectancy seeker"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Herzberg, an individual who is motivated primarily by the nature of his environment and tends to avoid motivation opportunities is called a:",
+      "options": [
+        "Maintenance seeker",
+        "Motivation seeker",
+        "Power seeker",
+        "Achievement seeker"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "One striking conclusion of Herzberg's theory is that higher performance cannot be achieved simply by improving:",
+      "options": [
+        "Wages and working conditions",
+        "Opportunities for growth",
+        "Job design and responsibility",
+        "Recognition and achievement opportunities"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Herzberg's findings, satisfaction and dissatisfaction are:",
+      "options": [
+        "Always exact opposites on a single continuum",
+        "Identical concepts with no distinction",
+        "Independent rather than opposite ends of the same continuum",
+        "Entirely unrelated to job factors"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "A criticism of Herzberg's theory is that it is based on a small sample of 200 accountants and engineers, making it not representative of the:",
+      "options": [
+        "Management consulting industry",
+        "Engineering profession specifically",
+        "Work force in general",
+        "Accounting profession specifically"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "A criticism of Herzberg's theory notes that when people are dissatisfied, they tend to attribute their failures to:",
+      "options": [
+        "Their own personal shortcomings",
+        "Outside forces",
+        "Random chance entirely",
+        "Their colleagues' achievements"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the comparison of Maslow and Herzberg, there is close similarity between survival needs (physiological, safety, social) and dissatisfiers, and between growth needs (esteem, self-actualisation) and:",
+      "options": [
+        "Power needs",
+        "Existence needs",
+        "Satisfiers",
+        "Maintenance factors"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Theory X and Theory Y, describing two alternative sets of assumptions about human nature relevant to motivation, were developed by:",
+      "options": [
+        "Frederick Herzberg",
+        "Douglas McGregor",
+        "Abraham Maslow",
+        "Victor Vroom"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Theory X's assumptions, the average individual is by nature indolent and will:",
+      "options": [
+        "Avoid work if he can",
+        "Prefer working without any supervision",
+        "Seek out work enthusiastically",
+        "Demand more responsibility"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Theory X's assumptions, the average person lacks ambition, dislikes responsibility, and prefers to be:",
+      "options": [
+        "Left entirely unsupervised",
+        "Led",
+        "Given full autonomy",
+        "In complete control of the organisation"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Theory X is described as a conventional or traditional approach, implying the use of the:",
+      "options": [
+        "Participative decision-making approach",
+        "Two-way communication approach",
+        "Carrot and stick approach",
+        "Self-direction and self-control approach"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Theory Y's assumptions, the expenditure of physical and mental effort in work is as natural as:",
+      "options": [
+        "Punishment and threat",
+        "Conflict and competition",
+        "Play and rest",
+        "Isolation and confinement"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Theory Y, man will exercise self-control and self-direction in the service of objectives to which he is:",
+      "options": [
+        "Actively opposed",
+        "Legally obligated regardless of interest",
+        "Indifferent",
+        "Committed"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to Theory Y, the average human being, under proper conditions, does not shun responsibility but is ready to:",
+      "options": [
+        "Delegate it entirely to superiors",
+        "Accept and even seek it",
+        "Ignore it whenever possible",
+        "Avoid it at all costs"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Theory Y, the capacity to exercise imagination, ingenuity and creativity in solving organisational problems is:",
+      "options": [
+        "Entirely absent in the average worker",
+        "Only present in a tiny, elite minority",
+        "Confined only to top management",
+        "Widely, not narrowly, distributed in the population"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "In the comparison between Theory X and Theory Y, Theory X organisations rely on external control and close supervision, while Theory Y organisations rely on:",
+      "options": [
+        "Self-direction and self-control",
+        "Government-imposed regulation",
+        "Complete absence of any leadership",
+        "Even greater external control"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A criticism of McGregor's theory is that it tends to over-generalise and over-simplify people as being:",
+      "options": [
+        "Identical to every other individual",
+        "One way or the other, in two extreme patterns",
+        "Motivated solely by financial rewards",
+        "Entirely unpredictable with no discernible pattern"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Alderfer's ERG theory, developed by an American psychologist, suggests there are three groups of core needs: existence, relatedness and:",
+      "options": [
+        "Growth",
+        "Government",
+        "Gratification",
+        "Guidance"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "In Alderfer's ERG theory, existence needs align with Maslow's physiological and:",
+      "options": [
+        "Social needs exclusively",
+        "Esteem-related needs",
+        "Safety-related needs",
+        "Self-actualisation needs"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "In Alderfer's ERG theory, relatedness needs are based on social interactions and align with Maslow's love/belonging needs and:",
+      "options": [
+        "Physiological needs exclusively",
+        "Existence needs exclusively",
+        "Self-actualisation needs exclusively",
+        "Esteem-related needs (respect of others)"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "In Alderfer's ERG theory, growth needs describe the intrinsic desire for personal development, aligning with self-esteem and:",
+      "options": [
+        "Physiological needs",
+        "Self-actualisation needs",
+        "Relatedness needs exclusively",
+        "Safety needs"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Alderfer proposed that when a certain category of needs isn't being met, people will redouble their efforts to fulfil needs in a:",
+      "options": [
+        "Lower category",
+        "Random, arbitrary category",
+        "Completely unrelated category",
+        "Higher category exclusively"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "David C. McClelland's need theory identified three needs that motivate human behaviour: power, affiliation and:",
+      "options": [
+        "Security",
+        "Existence",
+        "Equity",
+        "Achievement"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to McClelland, individuals with a high need for achievement (n-Ach) tend to set:",
+      "options": [
+        "No goals at all, preferring spontaneity",
+        "Moderately difficult goals and take calculated risks",
+        "Extremely difficult, near-impossible goals",
+        "The easiest possible goals to guarantee success"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to McClelland, high need achievers have a strong desire for:",
+      "options": [
+        "Minimal effort with maximum reward",
+        "Performance feedback",
+        "Avoidance of any personal responsibility",
+        "Complete isolation from supervisors"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to McClelland, the need for power (n-Pow) is concerned with the desire to influence others, change people, and:",
+      "options": [
+        "Eliminate all organisational hierarchy",
+        "Remain entirely unnoticed",
+        "Make a difference in life",
+        "Avoid all forms of leadership"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to McClelland, people with a high need for power are characterised by outspokenness, forcefulness, and a tendency to:",
+      "options": [
+        "Withdraw from leadership opportunities",
+        "Stand by their original position",
+        "Defer to others in every decision",
+        "Avoid any confrontation entirely"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to McClelland, the need for affiliation (n-Aff) is defined as a desire to establish and maintain friendly and warm relations with:",
+      "options": [
+        "Only government officials",
+        "Only direct competitors",
+        "Other people",
+        "Only shareholders"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "People with a high need for affiliation have a strong desire for acceptance and approval from others, and tend to conform to the wishes of those whose friendship they:",
+      "options": [
+        "Value",
+        "Actively despise",
+        "Are legally obligated to serve",
+        "Have never met"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A limitation of McClelland's Achievement Motivation Theory is that persons with a high need for achievement may lack human skills and patience for being effective managers, because they:",
+      "options": [
+        "Refuse to provide feedback to others",
+        "Avoid all forms of responsibility",
+        "Expect similar results from others",
+        "Never set any goals for themselves"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Equity Theory, calling for a fair balance between an employee's inputs and outputs, was developed by:",
+      "options": [
+        "Clayton Alderfer",
+        "David McClelland",
+        "Victor Vroom",
+        "John Stacey Adams"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to Equity Theory, an employee's inputs include hard work, skill level, tolerance and:",
+      "options": [
+        "Enthusiasm",
+        "Salary",
+        "Job security",
+        "Recognition"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Equity Theory, an employee's outputs include salary, benefits and intangibles such as:",
+      "options": [
+        "Commitment",
+        "Recognition",
+        "Loyalty",
+        "Effort"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Equity Theory, if the rewards employees receive don't match their efforts, the result is:",
+      "options": [
+        "Distress and demotivation, leading to less effort",
+        "Immediate and permanent motivation",
+        "Automatic promotion to a higher role",
+        "No change in behaviour whatsoever"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Under Equity Theory, 'Overpaid Inequity' occurs when an individual perceives that his outcomes, relative to his inputs, are:",
+      "options": [
+        "Greater than those of others in the same ratio",
+        "Exactly equal to those of others",
+        "Less than those of others in the same ratio",
+        "Entirely unrelated to those of others"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Under Equity Theory, 'Underpaid Inequity' occurs when an individual perceives that his outcome-to-input ratio is:",
+      "options": [
+        "Greater than that of others",
+        "Less than that of others",
+        "Exactly equal to that of others",
+        "Impossible to compare with others"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the text, if not addressed on time, perceived unfairness under Equity Theory can lead to:",
+      "options": [
+        "Good employees exiting the organization at the first opportunity",
+        "Increased loyalty regardless of fairness perceptions",
+        "Immediate improvement in organisational morale",
+        "No measurable effect on employee behaviour"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Expectancy Theory, proposed in 1964, focuses on outcomes rather than needs (unlike Maslow and Herzberg), and was developed by:",
+      "options": [
+        "Victor Vroom",
+        "Clayton Alderfer",
+        "John Stacey Adams",
+        "David McClelland"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Expectancy Theory, the significance an individual associates with an expected outcome, representing expected rather than actual satisfaction, is called:",
+      "options": [
+        "Instrumentality",
+        "Equity",
+        "Expectancy",
+        "Valence"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to Expectancy Theory, the faith that better efforts will result in better performance is called:",
+      "options": [
+        "Expectancy",
+        "Achievement",
+        "Instrumentality",
+        "Valence"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Expectancy Theory, the faith that good performance will lead to a valid outcome or reward is called:",
+      "options": [
+        "Affiliation",
+        "Expectancy",
+        "Valence",
+        "Instrumentality"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Expectancy Theory can be expressed as a mathematical formula: Motivation equals Valence multiplied by Expectancy multiplied by:",
+      "options": [
+        "Achievement",
+        "Instrumentality",
+        "Affiliation",
+        "Equity"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the implications of Expectancy Theory, managers must ensure that employees can achieve the aimed:",
+      "options": [
+        "Shareholder dividend targets exclusively",
+        "Government compliance quotas exclusively",
+        "Competitor benchmarks exclusively",
+        "Performance levels"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "A limitation of Expectancy Theory is that it seems idealistic because relatively few individuals perceive a high degree of correlation between:",
+      "options": [
+        "Leadership and followership",
+        "Motivation and existence needs",
+        "Performance and rewards",
+        "Effort and enjoyment"
+      ],
+      "answer": 2
+    }
+  ]
+}
