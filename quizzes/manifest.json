@@ -19,5 +19,26 @@
     "subject": "Fundamentals of Management",
     "file": "quizzes/5-3-planning-organizing-staffing-leading.json",
     "questionCount": 109
+  },
+  {
+    "id": "5-4-communication-coordination-collaboration-monitoring-control",
+    "title": "5.4 Communication, Coordination, Collaboration, Monitoring and Control",
+    "subject": "Fundamentals of Management",
+    "file": "quizzes/5-4-communication-coordination-collaboration-monitoring-control.json",
+    "questionCount": 121
+  },
+  {
+    "id": "5-5-organisation-structure-responsibility-accountability-delegation",
+    "title": "5.5 Organisation Structure, Responsibility, Accountability and Delegation of Authority",
+    "subject": "Fundamentals of Management",
+    "file": "quizzes/5-5-organisation-structure-responsibility-accountability-delegation.json",
+    "questionCount": 120
+  },
+  {
+    "id": "5-6-leadership-and-motivation",
+    "title": "5.6 Leadership and Motivation \u2013 Concepts and Theories",
+    "subject": "Fundamentals of Management",
+    "file": "quizzes/5-6-leadership-and-motivation.json",
+    "questionCount": 138
   }
 ]
