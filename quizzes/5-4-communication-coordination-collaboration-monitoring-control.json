@@ -1,0 +1,1217 @@
+{
+  "id": "5-4-communication-coordination-collaboration-monitoring-control",
+  "title": "5.4 Communication, Coordination, Collaboration, Monitoring and Control",
+  "subtitle": "Fundamentals of Management — Communication, Coordination, Collaboration, Monitoring and Control",
+  "questions": [
+    {
+      "q": "The word “communication” is derived from the Latin word ‘communis’, which means:",
+      "options": [
+        "Network",
+        "Channel",
+        "Message",
+        "Common"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to Dalton McFarland, communication is the process by which meanings are perceived and:",
+      "options": [
+        "Understandings are reached among human beings",
+        "Employees are terminated fairly",
+        "Budgets are allocated across divisions",
+        "Profits are maximized among departments"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Herbert A. Simon contends that communication is the process whereby decisional premises are transmitted from:",
+      "options": [
+        "One competitor to another",
+        "One shareholder to the government",
+        "One country to another",
+        "One member of an organisation to another"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to Newman and Summer, communication is an exchange of facts, ideas, opinions or:",
+      "options": [
+        "Products between suppliers",
+        "Currencies between nations",
+        "Shares between investors",
+        "Emotions by two or more persons"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Louis A. Allen defines communication as the sum of all the things one person does when he wants to create understanding in the mind of another, describing it as a:",
+      "options": [
+        "Legal contract",
+        "Barrier to progress",
+        "Financial statement",
+        "Bridge of meaning"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Keith Davis compared the hardening of an organisation's communication arteries, which impairs efficiency, to a medical condition called:",
+      "options": [
+        "Arteriosclerosis",
+        "Bureaucratosis",
+        "Organisational fatigue",
+        "Infosclerosis"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to the text, effective communication is a substance of good management; communication is not a:",
+      "options": [
+        "Barrier to good management",
+        "Requirement for good management",
+        "Substitute for good management",
+        "Synonym for good management"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "In the communication process, the element involving the selection of language in which the message is to be given is called:",
+      "options": [
+        "Encoding",
+        "Noise",
+        "Decoding",
+        "Feedback"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "In the communication process, interpretation of the message by the receiver is called:",
+      "options": [
+        "Decoding",
+        "Encoding",
+        "Filtering",
+        "Feedback"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to the text, effective communication is always:",
+      "options": [
+        "Message-oriented, not receiver oriented",
+        "Receiver-oriented, not message oriented",
+        "Sender-oriented exclusively",
+        "Medium-oriented exclusively"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "If the receiver is unable to receive the message properly, according to the text, the fault lies with:",
+      "options": [
+        "The organisation's structure",
+        "The communicator",
+        "The medium alone",
+        "The receiver"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which element of the communication process ensures that no distortion exists between the intended message and the received message?",
+      "options": [
+        "Decoding",
+        "Noise",
+        "Feedback",
+        "Encoding"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "A disturbance that obstructs the smooth flow of communication and reduces the clarity of the message is called:",
+      "options": [
+        "Encoding",
+        "Feedback",
+        "Medium",
+        "Noise"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Communication that is the official message conveyed by a manager by virtue of his position in the organisation structure is called:",
+      "options": [
+        "Non-verbal communication",
+        "Formal communication",
+        "Informal communication",
+        "Grapevine communication"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Communication that grows up spontaneously from personal and group interests is called:",
+      "options": [
+        "Informal communication",
+        "Formal communication",
+        "Written communication",
+        "Downward communication"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "When communication flows from top to bottom in an organisation, it is called:",
+      "options": [
+        "Horizontal communication",
+        "Upward communication",
+        "Downward communication",
+        "Diagonal communication"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Communication flowing between various departments or people on the same level in an organisation is called:",
+      "options": [
+        "Upward communication",
+        "Horizontal (lateral) communication",
+        "Downward communication",
+        "Formal communication"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Written communication is valued because it creates a:",
+      "options": [
+        "Barrier to understanding",
+        "Substitute for feedback",
+        "Faster response than verbal communication",
+        "Record of evidence"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The barrier to communication in which a sender deliberately hides or alters meaning to mislead the receiver is called:",
+      "options": [
+        "Semantic barrier",
+        "Filtering",
+        "Selective perception",
+        "Information overload"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The barrier to communication in which the fault lies with the receiver, who perceives only what he is interested in, is called:",
+      "options": [
+        "Filtering",
+        "Selective perception",
+        "Noise",
+        "Time pressure"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The barrier to communication where the tendency of people to interpret the same message in different ways distorts meaning is known as:",
+      "options": [
+        "Time pressure",
+        "Non-verbal cue barrier",
+        "Filtering",
+        "Semantic barrier"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which barrier to communication occurs when managers furnish heavy amounts of information to subordinates, making it hard to distinguish important from unimportant details?",
+      "options": [
+        "Information overload",
+        "Selective perception",
+        "Semantic barrier",
+        "Emotions"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Non-verbal cues act as a barrier to communication especially when they are:",
+      "options": [
+        "Absent entirely from the interaction",
+        "Recorded in writing",
+        "Perfectly aligned with the message",
+        "Inconsistent with the message being transmitted"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which barrier to communication arises when, in haste to meet deadlines, formal channels are shortened or messages are only partially given?",
+      "options": [
+        "Time pressures",
+        "Language",
+        "Selective perception",
+        "Emotions"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which of the following is listed as a way to overcome barriers and make communication effective?",
+      "options": [
+        "Ignoring non-verbal cues entirely",
+        "Fostering interpersonal trust",
+        "Avoiding all feedback",
+        "Increasing the volume of information sent"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Henry Fayol, to coordinate is to harmonise all the activities of a concern so as to facilitate its working and its:",
+      "options": [
+        "Liquidation",
+        "Taxation",
+        "Success",
+        "Advertising"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "George Terry and Theo Haimann consider coordination to be a permeating function of management, describing it as:",
+      "options": [
+        "The essence of management, not a separate function",
+        "A function performed only by the finance department",
+        "A one-time activity performed at the start of a project",
+        "A separate and distinct function from all others"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which feature of coordination states that it is inherent in the managerial job and embodied in all the functions of management?",
+      "options": [
+        "Coordination is not a distinct function but the very essence of management",
+        "Coordination is required only in individual effort",
+        "Coordination is a one-time activity",
+        "Coordination arises spontaneously without effort"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to the features of coordination, it does not arise spontaneously or by force but is the result of:",
+      "options": [
+        "Random chance within the organisation",
+        "External government regulation",
+        "Conscious and concerted action by management",
+        "Employee demands alone"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to the features of coordination, the heart of coordination is:",
+      "options": [
+        "Maximisation of individual output",
+        "Minimisation of communication",
+        "Avoidance of group activity",
+        "Unity of purpose"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which feature of coordination states that it is required in group efforts, not in individual effort?",
+      "options": [
+        "Coordination is required in group efforts, not individual effort",
+        "Coordination arises without conscious action",
+        "Coordination is unrelated to organisational systems",
+        "Coordination is a one-time exercise"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Coordination is described as a systems concept because it regards an organisation as a system of:",
+      "options": [
+        "Unrelated transactions",
+        "Cooperative efforts",
+        "Independent competitors",
+        "Isolated departments"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which principle of coordination states that coordination must begin during the planning stage itself?",
+      "options": [
+        "Principle of Early Stage",
+        "Principle of Continuity",
+        "Principle of Reciprocal Relations",
+        "Principle of Direct Contact"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which principle of coordination emphasises that coordination must be an ongoing process that continues as long as the organisation exists?",
+      "options": [
+        "Principle of Continuity",
+        "Principle of Early Stage",
+        "Principle of Clarity of Objectives",
+        "Principle of Direct Contact"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which principle of coordination states that all managers must have direct contact with their subordinates to avoid misunderstandings and disputes?",
+      "options": [
+        "Principle of Continuity",
+        "Principle of Effective Communication",
+        "Principle of Reciprocal Relations",
+        "Principle of Direct Contact"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which principle of coordination holds that the decisions and actions of one person or department will affect all other persons and departments in the organisation?",
+      "options": [
+        "Principle of Early Stage",
+        "Principle of Direct Contact",
+        "Principle of Reciprocal Relations",
+        "Principle of Clarity of Objectives"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which principle of coordination states that coordination will be successful only in the presence of good communication between departments, employees and managers?",
+      "options": [
+        "Principle of Effective Communication",
+        "Principle of Continuity",
+        "Principle of Early Stage",
+        "Principle of Reciprocal Relations"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which principle of coordination requires that everyone in the organisation know the objectives clearly, without any doubts?",
+      "options": [
+        "Principle of Reciprocal Relations",
+        "Principle of Clarity of Objectives",
+        "Principle of Continuity",
+        "Principle of Direct Contact"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Gratton and Erickson's article “Eight Ways to Build Collaborative Teams,” collaboration tends to decrease sharply when a team is working on:",
+      "options": [
+        "Fully remote assignments",
+        "Complex project initiatives",
+        "Short-term contracts only",
+        "Very small, simple tasks"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which of the following is listed as one of the eight success factors for strong collaboration skills identified by Gratton and Erickson?",
+      "options": [
+        "Complete avoidance of mentoring",
+        "Role models of collaboration among executives",
+        "Elimination of all training programmes",
+        "Strict hierarchical reporting lines only"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The framework proposed by Gary P. Pisano and Roberto Verganti for choosing a mode of collaboration was published in the Harvard Business Review in which year?",
+      "options": [
+        "1991",
+        "1997",
+        "2008",
+        "2015"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Pisano and Verganti's framework for collaboration rests on two questions: how open or closed the network should be, and:",
+      "options": [
+        "Who should decide which problems the network will tackle and which solutions are adopted",
+        "How many employees should join the network",
+        "Which country the network should be based in",
+        "How much the collaboration should cost the firm"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "In a totally open collaboration network where anyone can participate, including suppliers, customers and even competitors, this is referred to as:",
+      "options": [
+        "A consortium",
+        "An elite circle",
+        "A kingpin network",
+        "Crowdsourcing"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "In Pisano and Verganti's framework, a network in which the power to decide problems and solutions is completely vested in one firm is called:",
+      "options": [
+        "An open network",
+        "A flat network",
+        "A hierarchical network (the “kingpin”)",
+        "A consortium network"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The collaboration mode that is closed and hierarchical, where a select group chosen by a company works on a problem the company defines, is called:",
+      "options": [
+        "An elite circle",
+        "An innovation mall",
+        "A consortium",
+        "An innovation community"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The collaboration mode that is open and hierarchical, where a company posts a problem and anyone can propose solutions which the company then selects, is called:",
+      "options": [
+        "An innovation community",
+        "An elite circle",
+        "A consortium",
+        "An innovation mall"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The collaboration mode that is open and flat, where anybody can propose problems, offer solutions, and decide which solutions to use, is called:",
+      "options": [
+        "An innovation community",
+        "An innovation mall",
+        "An elite circle",
+        "A consortium"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The collaboration mode that is closed and flat, where a private group of participants jointly selects problems and chooses solutions, is called:",
+      "options": [
+        "An innovation community",
+        "A consortium",
+        "An innovation mall",
+        "An elite circle"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "InnoCentive.com, where companies post scientific problems for anyone to propose solutions to, is given as an example of which collaboration mode?",
+      "options": [
+        "Innovation Community",
+        "Elite Circle",
+        "Consortium",
+        "Innovation Mall"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The Linux open-source software community is given as an example of which collaboration mode?",
+      "options": [
+        "Innovation Mall",
+        "Consortium",
+        "Elite Circle",
+        "Innovation Community"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Alessi's handpicked group of over 200 design experts who develop new home product concepts is an example of which collaboration mode?",
+      "options": [
+        "Innovation Community",
+        "Elite Circle",
+        "Innovation Mall",
+        "Consortium"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "IBM's partnerships with select companies to jointly develop semiconductor technologies is an example of which collaboration mode?",
+      "options": [
+        "Elite Circle",
+        "Innovation Community",
+        "Innovation Mall",
+        "Consortium"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "A key advantage of an open collaboration mode (such as an innovation mall) is that a firm receives a large number of solutions from domains that might be:",
+      "options": [
+        "Beyond its own realm of experience or knowledge",
+        "Entirely within its existing expertise only",
+        "Limited to government-approved sources",
+        "Restricted to a single supplier"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A key advantage of a closed collaboration mode is that the firm controls the direction of innovation and:",
+      "options": [
+        "The total number of global competitors",
+        "Who captures the value from it",
+        "The price of raw materials in the market",
+        "The interest rate on corporate loans"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Monitoring is defined as the systematic process of collecting, analyzing and using information to track a programme's progress toward reaching its:",
+      "options": [
+        "Shareholder dividend policy",
+        "Advertising budget",
+        "Objectives, to guide management decisions",
+        "Legal compliance certificate"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Gosling and Edwards (2003), monitoring is defined as systematic and continuous collecting and analysing of information about the progress of a piece of work:",
+      "options": [
+        "Once every five years",
+        "Only before a project begins",
+        "Only at the end of a project",
+        "Over time"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Traditionally, monitoring differs from evaluation because it is carried out by internal rather than external staff, and it is:",
+      "options": [
+        "Focused solely on long-term impact",
+        "Ongoing rather than periodic",
+        "Conducted only by external auditors",
+        "Periodic rather than ongoing"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Compared to evaluation, monitoring focuses more on activities and outputs than on:",
+      "options": [
+        "Outcomes and impact",
+        "Employee salaries",
+        "Shareholder meetings",
+        "Daily attendance records"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which of the following is listed as a significance of monitoring?",
+      "options": [
+        "It removes the need for any staff training",
+        "It guarantees profits regardless of strategy",
+        "It eliminates the need for planning entirely",
+        "It helps organizations detect problems early"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Monitoring is said to result in better transparency and:",
+      "options": [
+        "Centralisation",
+        "Accountability",
+        "Confidentiality",
+        "Deregulation"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "One purpose of monitoring is providing information that enables approaches and strategies to be changed in response to:",
+      "options": [
+        "Evolving situations",
+        "Predetermined outcomes only",
+        "Fixed annual budgets only",
+        "Shareholder personal preferences"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Process or performance monitoring focuses on the activities carried out as part of a development intervention and is designed to assess:",
+      "options": [
+        "Only the marketing campaign's reach",
+        "Whether and how well those activities are being implemented",
+        "Only the final financial results of the project",
+        "Only the personal opinions of top management"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Results or impact monitoring aims to assess the changes brought about by a project or programme on a:",
+      "options": [
+        "Decade-long basis exclusively",
+        "Continuous basis",
+        "One-time basis only",
+        "Basis determined solely by competitors"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Beneficiary monitoring is a specific type of impact monitoring that aims to track the perceptions of:",
+      "options": [
+        "Project or programme beneficiaries",
+        "Government regulators only",
+        "Competing organisations",
+        "Shareholders exclusively"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Situation monitoring is concerned with monitoring:",
+      "options": [
+        "Only the production line speed",
+        "Only employee attendance",
+        "The external environment",
+        "Only the internal financial ledger"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Financial monitoring is concerned with the monitoring of budgets and finance, and is linked to:",
+      "options": [
+        "Auditing",
+        "Product design",
+        "Advertising",
+        "Recruitment"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Administrative or logistics monitoring covers issues such as the maintenance of premises, transport, personnel and:",
+      "options": [
+        "Shareholder voting rights",
+        "Currency exchange rates",
+        "Stock-keeping",
+        "Competitor pricing strategy"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Compliance monitoring is designed to ensure adherence to legal regulations, grant or contract requirements, and:",
+      "options": [
+        "Ethical standards",
+        "Office furniture layout",
+        "Product colour schemes",
+        "Marketing slogans"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "In the steps of the monitoring process, information generated through monitoring can result in changed plans immediately, whereas evaluation only feeds into changed plans:",
+      "options": [
+        "Only after the project fails completely",
+        "Only when demanded by shareholders",
+        "At periodic intervals",
+        "Every single day without exception"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which step of the monitoring process involves gathering data through formal tools such as semi-structured interviews, structured observation and focus group discussions?",
+      "options": [
+        "Using information",
+        "Reporting information",
+        "Storing information",
+        "Collecting information"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which step of the monitoring process may involve producing minutes or descriptions of meetings so that stakeholders share the same understanding?",
+      "options": [
+        "Recording information",
+        "Analysing information",
+        "Collecting information",
+        "Sharing information"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which step of the monitoring process involves producing tables and graphs that summarise statistical information, or generating lessons and trends from qualitative data?",
+      "options": [
+        "Analysing information",
+        "Reporting information",
+        "Storing information",
+        "Planning"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which step of the monitoring process involves distributing data to stakeholders such as staff, beneficiaries, partners and donors so it can be useful?",
+      "options": [
+        "Sharing information",
+        "Planning",
+        "Collecting information",
+        "Storing information"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which step of the monitoring process is described as one way of sharing information through internal and external mechanisms like published reports and circulars?",
+      "options": [
+        "Storing information",
+        "Reporting information",
+        "Collecting information",
+        "Recording information"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The key purpose of the final step of the monitoring process, “Using information,” is to make changes, where necessary, to plans, budgets or:",
+      "options": [
+        "Targets",
+        "Shareholder identities",
+        "Competitor logos",
+        "Office locations"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Anthony, control is the process by which managers assure that resources are obtained and used effectively and efficiently in the accomplishment of:",
+      "options": [
+        "The government's tax revenue targets",
+        "The shareholders' personal wealth",
+        "The organisational objectives",
+        "The competitor's strategic plan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Haynes and Massie, control is any process that guides activity toward:",
+      "options": [
+        "A goal set exclusively by external auditors",
+        "A randomly selected outcome",
+        "Some predetermined goal",
+        "No specific goal at all"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Hicks and Gullet, controlling is the process by which management sees if what did happen was what was supposed to happen, and if not:",
+      "options": [
+        "Necessary adjustments are made",
+        "The entire staff is replaced",
+        "No further action is taken",
+        "The project is immediately abandoned"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Koontz and O'Donnell, managerial control implies the measurement of accomplishment against the standard, and the correction of deviations to assure attainment of objectives according to:",
+      "options": [
+        "Competitor benchmarks only",
+        "Plans",
+        "Employee preferences",
+        "Random sampling"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the text, control is described as an effective counterpart to:",
+      "options": [
+        "Planning",
+        "Taxation",
+        "Advertising",
+        "Recruitment"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The first step in the control process is:",
+      "options": [
+        "Establishment of standards",
+        "Measurement of actual performance",
+        "Comparing actual performance with standards",
+        "Taking corrective action"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which step of the control process is described as particularly difficult for less technical tasks?",
+      "options": [
+        "Comparing performance with standards",
+        "Establishment of standards",
+        "Taking corrective action",
+        "Measurement of actual performance"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The third step of the control process may reveal some deviations from the standards established, since actual performance rarely matches standards:",
+      "options": [
+        "Randomly",
+        "Immediately",
+        "Perfectly",
+        "Legally"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to the control process, even a positive deviation may call for corrective action because it might indicate that:",
+      "options": [
+        "The standard itself was set substandard",
+        "No further monitoring is needed",
+        "Performance is always excellent",
+        "The organisation should be dissolved"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which of the following is listed as a form of corrective action in the control process?",
+      "options": [
+        "Removing all performance standards",
+        "Eliminating the control process itself",
+        "Re-setting the standards",
+        "Ignoring all deviations permanently"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "In a complex system where it is not possible to control every aspect of activity, managers focus control attention on a few key areas known as critical points, an approach called:",
+      "options": [
+        "Critical point control",
+        "Control by exception",
+        "Feed forward control",
+        "Concurrent control"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "ABC analysis, used in inventory control, is given as an example of which control concept?",
+      "options": [
+        "Critical point control",
+        "Feedback control",
+        "Control by exception",
+        "Concurrent control"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The principle that managers should pay attention only to exceptional and significant deviations from planned results is known as:",
+      "options": [
+        "Feed forward control",
+        "Budgetary control",
+        "Control by exception (management by exception)",
+        "Critical point control"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The idea behind control by exception is captured by the phrase:",
+      "options": [
+        "“Control should never be selective”",
+        "“More data is always better”",
+        "“Every deviation must be reported”",
+        "“No news is good news”"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which type of control is also known as ‘post control,’ gathering information about completed activity to evaluate and improve future similar activity?",
+      "options": [
+        "Concurrent control",
+        "Feed forward control",
+        "Feedback (historical) control",
+        "Critical point control"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which type of control is also known as ‘real time’ or ‘steering’ control, concerned with adjusting performance before major damage is done?",
+      "options": [
+        "Concurrent control",
+        "Feedback control",
+        "Critical point control",
+        "Feed forward control"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A control chart in a factory is given as an example of which type of control?",
+      "options": [
+        "Critical point control",
+        "Concurrent control",
+        "Feedback control",
+        "Feed forward control"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which type of control involves the evaluation of inputs, following the principle that an organisation is not stronger than its weakest link?",
+      "options": [
+        "Feed forward control",
+        "Control by exception",
+        "Concurrent control",
+        "Feedback control"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A preventive maintenance programme designed to prevent a breakdown in machinery is given as an example of which type of control?",
+      "options": [
+        "Feedback control",
+        "Feed forward control",
+        "Critical point control",
+        "Concurrent control"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "A policy on absenteeism communicated to new employees to help prevent potential problems is given as an example of which type of control?",
+      "options": [
+        "Feedback control",
+        "Concurrent control",
+        "Control by exception",
+        "Feed forward control"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to the prerequisites of an effective control system, the control system should be sensitive enough to point out deviations from plans:",
+      "options": [
+        "Immediately, so corrective action can be taken with little loss of time",
+        "Only once a year, during the annual review",
+        "Only when requested by shareholders",
+        "Only after significant financial loss has occurred"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to the prerequisites of an effective control system, it should be flexible and forward looking, just like the:",
+      "options": [
+        "Planning system",
+        "Legal department",
+        "Advertising campaign",
+        "Recruitment system"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to the prerequisites of an effective control system, it should be economical to operate, but economy need not be exercised at the cost of:",
+      "options": [
+        "Advertising expenditure",
+        "Effectiveness",
+        "Employee salaries",
+        "Shareholder dividends"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the prerequisites of an effective control system, the system should be understandable to those whose performance is:",
+      "options": [
+        "Sought to be regulated",
+        "Determined solely by competitors",
+        "Never measured at all",
+        "Kept confidential from managers"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which principle of control states that the task of control is to ensure plans succeed by detecting deviations and furnishing a basis for corrective action?",
+      "options": [
+        "Principle of future-directed controls",
+        "Principle of assurance of objective",
+        "Principle of control responsibility",
+        "Principle of efficiency of control"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which principle of control states that a system based more on feed forward than simple feedback gives managers the chance to prevent undesirable deviations before they occur?",
+      "options": [
+        "Principle of exception",
+        "Principle of assurance of objective",
+        "Principle of future-directed controls",
+        "Principle of standards"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which principle of control states that the primary responsibility for exercising control rests in the manager charged with performance of the particular plan involved?",
+      "options": [
+        "Principle of efficiency of control",
+        "Principle of reflection of plans",
+        "Principle of individuality of control",
+        "Principle of control responsibility"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which principle of control holds that control techniques are efficient if they detect deviations from plans with a minimum of costs or other unsought consequences?",
+      "options": [
+        "Principle of exception",
+        "Principle of control responsibility",
+        "Principle of standards",
+        "Principle of efficiency of control"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which principle of control states that the clearer, more complete and more integrated the plans are, and the more controls are designed to reflect such plans, the more effective controls will be?",
+      "options": [
+        "Principle of reflection of plans",
+        "Principle of individuality of control",
+        "Principle of organisational suitability",
+        "Principle of flexibility of control"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which principle of control states that controls should be designed to reflect the place in the organisation structure where responsibility for action lies?",
+      "options": [
+        "Principle of organisational suitability",
+        "Principle of reflection of plans",
+        "Principle of exception",
+        "Principle of standards"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which principle of control states that control techniques and information should be understandable to the individual managers who must use them?",
+      "options": [
+        "Principle of organisational suitability",
+        "Principle of critical point control",
+        "Principle of action",
+        "Principle of individuality of control"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which principle of control requires that measurement of performance by reference to standards be verifiable, specific and simple?",
+      "options": [
+        "Principle of exception",
+        "Principle of standards",
+        "Principle of flexibility of control",
+        "Principle of direct control"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which principle of control requires managers to concentrate attention on factors critical to appraising performance against an individual plan?",
+      "options": [
+        "Principle of exception",
+        "Principle of critical point control",
+        "Principle of action",
+        "Principle of standards"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which principle of control suggests that managers should concentrate efforts on significant deviations, both positive and negative, from plans?",
+      "options": [
+        "Principle of critical point control",
+        "Principle of exception",
+        "Principle of flexibility of control",
+        "Principle of standards"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which principle of control states that, since plans must be flexible to be effective, control must also be flexible despite failure or unforeseen changes of plans?",
+      "options": [
+        "Principle of standards",
+        "Principle of reflection of plans",
+        "Principle of flexibility of control",
+        "Principle of exception"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which principle of control affirms that control is justified only if deviations from plans are corrected through appropriate planning, organising, staffing and leading?",
+      "options": [
+        "Principle of efficiency of control",
+        "Principle of individuality of control",
+        "Principle of action",
+        "Principle of critical point control"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Budgets are described in the text as formal quantitative statements of the resources allocated for the execution of activities over a given period of time, including information about projected income, expenditure and:",
+      "options": [
+        "Advertising slogans",
+        "Employee attendance",
+        "Competitor market share",
+        "Profits"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Under the essential elements of budgetary control, enterprise goals are translated into sub-goals of various operating units, further operationalised as standards of performance and:",
+      "options": [
+        "Shareholder voting rights",
+        "Targets of achievement",
+        "Legal disclaimers",
+        "Office seating charts"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The annual Trading and Profit and Loss Account and Balance Sheet are described in the text as powerful tools of:",
+      "options": [
+        "Product design",
+        "Recruitment",
+        "Control",
+        "Advertising"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Break-even analysis, also called Cost-Volume-Profit analysis, is a tool of control used to size up the behaviour of costs, revenues and:",
+      "options": [
+        "Advertising reach",
+        "Employee turnover rates",
+        "Shareholder sentiment",
+        "Profit at various levels of activity"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The point at which total revenue equals total cost, representing no profit and no loss, is called the:",
+      "options": [
+        "Critical point",
+        "Consortium point",
+        "Break-even point",
+        "Feedback point"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Break-even analysis is described in the text as a technique of both planning and:",
+      "options": [
+        "Recruitment",
+        "Advertising",
+        "Control",
+        "Taxation"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Management Information System (MIS) helps managers by gathering, storing and converting data into useful:",
+      "options": [
+        "Legal disclaimers",
+        "Shareholder complaints",
+        "Advertising material",
+        "Information"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "One role of MIS is to avoid furnishing overlapping information, ensuring there is a desired degree of focus and:",
+      "options": [
+        "Ambiguity in the information content",
+        "Selectivity in the information content",
+        "Delay in the information content",
+        "Redundancy in the information content"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Management Audit is defined as a systematic evaluation of the functioning, performance and effectiveness of:",
+      "options": [
+        "The shareholders' personal finances",
+        "The management of an organisation",
+        "The government's tax policy",
+        "The competitors' advertising budgets"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Management Audit is described as an independent appraisal of an organisation's management conducted by:",
+      "options": [
+        "A single employee chosen at random",
+        "The organisation's competitors",
+        "The organisation's own marketing department",
+        "An outside firm"
+      ],
+      "answer": 3
+    }
+  ]
+}
