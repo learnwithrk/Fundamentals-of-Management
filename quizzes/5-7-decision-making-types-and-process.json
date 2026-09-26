@@ -1,0 +1,497 @@
+{
+  "id": "5-7-decision-making-types-and-process",
+  "title": "5.7 Decision-Making – Types and Process",
+  "subtitle": "Fundamentals of Management — Decision Making: definition, types, process, techniques and guidelines",
+  "questions": [
+    {
+      "q": "Herbert A. Simon equated management with decision-making because, according to him, whatever a manager does is nothing but:",
+      "options": [
+        "Advertising",
+        "Decision-making",
+        "Accounting",
+        "Recruitment"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to George R. Terry, decision-making is the electing of an alternative from two or more alternatives to determine an opinion or a:",
+      "options": [
+        "Course of action",
+        "Marketing slogan",
+        "Legal contract",
+        "Financial statement"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "John McDonald described the business executive as a decision maker by profession, whose opponent is:",
+      "options": [
+        "Competition",
+        "Uncertainty",
+        "Shareholders",
+        "Taxation"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the text, a decision is the selection of a course of action from several alternatives, and decision-making is the process of arriving at the:",
+      "options": [
+        "Final selection",
+        "Annual performance review",
+        "Initial problem statement only",
+        "Organisational budget"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which characteristic of decision making states that it is necessary only when different alternative solutions are available?",
+      "options": [
+        "Decision making is necessary only when alternative solutions are available",
+        "Decision making involves commitment of resources",
+        "Decision making is related to the situation or environment",
+        "Decision making is a purposeful activity"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which characteristic of decision making states that it involves the commitment of resources and the reputation of the organization?",
+      "options": [
+        "Decision making is necessary only when alternatives exist",
+        "Decision making is related to the situation",
+        "Decision making is a rational choice process",
+        "Decision making involves the commitment of resources and reputation"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which characteristic of decision making holds that it is always related to the situation or environment?",
+      "options": [
+        "Decision making is a purposeful activity",
+        "Decision making eliminates the need for alternatives",
+        "Decision making is always related to the situation or environment",
+        "Decision making requires no commitment of resources"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Tactical or routine decisions, made repetitively following established rules and procedures, are generally taken by managers at which level?",
+      "options": [
+        "Only external consultants",
+        "Only the board of directors",
+        "Only the shareholders",
+        "Middle and lower management level"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to the text, the higher the level of a manager, the more decisions of which type he is required to take?",
+      "options": [
+        "Strategic decisions",
+        "Group decisions",
+        "Routine decisions",
+        "Personal decisions"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Strategic or basic decisions relate to policy matters and require thorough fact finding, with special importance placed on:",
+      "options": [
+        "Avoiding any analysis of alternatives",
+        "Following standard operating procedures only",
+        "Finding the correct problem",
+        "Delegating the decision entirely to lower levels"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Programmed decisions are of a routine and repetitive nature and are dealt with according to a:",
+      "options": [
+        "Completely unstructured, ad hoc approach",
+        "Process requiring board approval every time",
+        "Specific, standard procedure",
+        "Random process with no rules"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to the text's example, if a large number of employees absent themselves from work without information, this problem cannot be handled routinely and should instead be treated as a(n):",
+      "options": [
+        "Matter entirely outside the scope of management",
+        "Ordinary programmed decision handled by any supervisor",
+        "Unstructured problem requiring a non-programmed decision by the chief executive",
+        "Purely personal decision of the affected employees"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Policy decisions, which are of vital importance and affect the entire enterprise, are taken by:",
+      "options": [
+        "Customers of the organisation",
+        "External auditors exclusively",
+        "Top management",
+        "Only lower-level supervisors"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "In the text's example, a bonus issue is described as a policy decision, while the calculation of the bonus amount is an example of a(n):",
+      "options": [
+        "Operating decision",
+        "Group decision",
+        "Non-programmed decision",
+        "Personal decision"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Organisational decisions, which a manager takes in his official capacity, can be delegated, unlike:",
+      "options": [
+        "Routine decisions, which cannot be delegated at all",
+        "Personal decisions, which relate to the manager as an individual",
+        "Programmed decisions, which are always delegated automatically",
+        "Strategic decisions, which are always delegated to subordinates"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Decisions taken by a single person in the organisation, generally in small organisations or under an autocratic style of management, are known as:",
+      "options": [
+        "Group decisions",
+        "Individual decisions",
+        "Policy decisions",
+        "Non-programmed decisions"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Collective decisions taken by a group of organisational members, such as a Board of Directors or a committee, are known as:",
+      "options": [
+        "Individual decisions",
+        "Group decisions",
+        "Operating decisions",
+        "Personal decisions"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The first step in the decision-making process, involving knowing the gap between what is wanted and what is likely to occur, is:",
+      "options": [
+        "Developing alternatives",
+        "Identifying and diagnosing the real problem",
+        "Evaluation of alternatives",
+        "Implementation and follow up"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Newman and Summer, as cited in the text, identifying the 'cause of the gap' and understanding the problem helps to:",
+      "options": [
+        "Create additional problems",
+        "Eliminate the need for any alternatives",
+        "Solve the problem",
+        "Delay the decision indefinitely"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Peter F. Drucker, which analysis is described as helpful in identifying the causes of a problem properly?",
+      "options": [
+        "Critical factor analysis",
+        "Ratio analysis",
+        "Break-even analysis",
+        "SWOT analysis"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which step of the decision-making process involves considering time and cost constraints and psychological barriers that restrict the number of reasonable choices?",
+      "options": [
+        "Developing alternatives",
+        "Identifying and diagnosing the real problem",
+        "Selection of an alternative",
+        "Evaluation of alternatives"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Newport and Trewatha, as cited in the text, which technique may be fruitfully employed in developing alternatives, alongside group participation?",
+      "options": [
+        "Linear programming",
+        "Break-even analysis",
+        "Brainstorming",
+        "Queuing theory"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which step of the decision-making process involves drawing a balance sheet of every alternative by identifying its advantages and disadvantages?",
+      "options": [
+        "Developing alternatives",
+        "Implementation and follow up",
+        "Identifying and diagnosing the real problem",
+        "Evaluation of alternatives"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which of the following is listed as one of the criteria for evaluating an alternative in the decision-making process?",
+      "options": [
+        "Distance from the head office",
+        "Element of risk involved",
+        "Colour scheme of the report",
+        "Personal preference of the receptionist"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the text, the ability to select the best course of action from several possible alternatives separates:",
+      "options": [
+        "Line managers from staff managers",
+        "Programmed decisions from routine decisions",
+        "Successful managers from the less successful ones",
+        "Formal organisations from informal organisations"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Drucker mentions four criteria for selecting the best alternative: the risk, economy of effort, timing, and:",
+      "options": [
+        "Competitor pricing",
+        "Shareholder sentiment",
+        "Advertising expenditure",
+        "Limitation of resources"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The final step in the decision-making process, involving putting the selected alternative into action in the organisation, is:",
+      "options": [
+        "Implementation and follow up of the decision",
+        "Evaluation of alternatives",
+        "Developing alternatives",
+        "Identifying and diagnosing the real problem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to the text, acceptance of the decision by group members is absolutely essential to successful:",
+      "options": [
+        "Problem identification",
+        "Implementation",
+        "Risk avoidance",
+        "Alternative generation"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the text, after implementation of a decision, it is necessary to follow up to see whether the decision is:",
+      "options": [
+        "Approved by every single employee",
+        "Immediately profitable regardless of context",
+        "Yielding the desired results",
+        "Free from all future risk"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which quantitative technique of decision making is used for optimisation of an objective function under given resources and constraints, useful under conditions of certainty?",
+      "options": [
+        "Probability Decision Theory",
+        "Game Theory",
+        "Queuing Theory",
+        "Linear Programming"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which quantitative technique is based on the premise that the behaviour of the future is probabilistic and not deterministic, using pay-off matrices and decision trees?",
+      "options": [
+        "Simulation",
+        "Network Techniques",
+        "Probability Decision Theory",
+        "Linear Programming"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which quantitative technique is a useful aid to the decision maker under conditions of competitive rivalry or conflict, involving two-person, three-person and n-person games?",
+      "options": [
+        "Probability Decision Theory",
+        "Queuing Theory",
+        "Game Theory",
+        "Simulation"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which quantitative technique is designed to find solutions to waiting-line problems for personnel, equipment or services under conditions of irregular demand?",
+      "options": [
+        "Network Techniques",
+        "Linear Programming",
+        "Game Theory",
+        "Queuing Theory"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to the text, public transport systems, hospitals and big departmental stores are given as possible users of which technique?",
+      "options": [
+        "Simulation",
+        "Linear Programming",
+        "Queuing Theory",
+        "Game Theory"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which quantitative technique observes the behaviour of a system under several alternative conditions in an artificial setting, useful when conditions are very complex?",
+      "options": [
+        "Game Theory",
+        "Queuing Theory",
+        "Simulation",
+        "Linear Programming"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which two powerful network techniques, useful for project planning and control, are mentioned in the text?",
+      "options": [
+        "Queuing Theory and Simulation",
+        "Critical Path Method (CPM) and Programme Evaluation and Review Technique (PERT)",
+        "Brainstorming and Heuristics",
+        "Linear Programming and Game Theory"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the text, the objective of network techniques is to minimise both cost and time by working out a:",
+      "options": [
+        "Decision tree",
+        "Critical path",
+        "Break-even point",
+        "Pay-off matrix"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which modern technique for non-programmed decisions is a group-based method where members are encouraged to throw up all possible alternative solutions, even if wild or impractical?",
+      "options": [
+        "Heuristic Techniques",
+        "Queuing Theory",
+        "Brainstorming (a creative technique)",
+        "Participative Techniques"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Creativity, as described in the text, refers to the ability to generate new ideas and:",
+      "options": [
+        "Standard operating procedures only",
+        "Repetitive routine solutions only",
+        "Exact replicas of past decisions",
+        "New ways of doing things"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which technique involves employee participation in management and decision making, often hailed as industrial democracy?",
+      "options": [
+        "Participative Techniques",
+        "Creative Techniques",
+        "Network Techniques",
+        "Heuristic Techniques"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to the text, involvement of individuals and groups in decision-making improves the quality of decisions and fosters:",
+      "options": [
+        "Reduced employee motivation and morale",
+        "Increased conflict among departments",
+        "Responsibility and commitment for implementing them",
+        "Complete avoidance of any responsibility"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which technique is described as a sophisticated type of trial and error method to find solutions to complex problems on a step-by-step basis?",
+      "options": [
+        "Heuristic Techniques",
+        "Creative Techniques",
+        "Linear Programming",
+        "Participative Techniques"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Heuristic techniques recognise that decision making in complex, strategic problems cannot be too rational and systematic, and is bound to be:",
+      "options": [
+        "Sporadic and fragmented, due to information gaps and conflicting goals",
+        "Free from any uncertainty whatsoever",
+        "Perfectly logical and entirely predictable",
+        "Identical across every single organisation"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which guideline for effective decision making involves establishing multiple decentralised centres of managerial decision making at appropriate organisational levels?",
+      "options": [
+        "Concentration of all decisions at a single central point",
+        "Elimination of all accountability for decisions made",
+        "Establishment of multiple decentralised centres of decision making with delegated authority",
+        "Formulation of organisational objectives alone, without any delegation"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which guideline for effective decision making involves determining the appropriate decision-making workload at each centre to minimise overloading?",
+      "options": [
+        "Establishment of expert advisory staff units",
+        "Formulation of organisational objectives and policies",
+        "Determination of appropriate decision-making workload at each centre",
+        "Design of decision support systems"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which guideline for effective decision making involves coordinating various decision-making centres through communication to ensure consistency and cooperation?",
+      "options": [
+        "Determination of decision-making workload at each centre",
+        "Establishment of expert advisory staff units",
+        "Design and installation of decision support systems",
+        "Co-ordination of various decision-making centres through communication"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which guideline for effective decision making involves establishing expert advisory staff units to provide needed intellectual and professional inputs?",
+      "options": [
+        "Co-ordination of decision-making centres",
+        "Design and installation of decision support systems",
+        "Establishment of expert advisory staff units",
+        "Formulation of organisational objectives and policies"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which guideline for effective decision making involves formulating and communicating organisational objectives, policies, decision rules and procedures as guidelines for managers?",
+      "options": [
+        "Establishment of expert advisory staff units",
+        "Determination of decision-making workload at each centre",
+        "Formulation and communication of organisational objectives, policies, decision rules and procedures",
+        "Design and installation of decision support systems"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which guideline for effective decision making involves designing and installing information and control systems to provide logistic support to managers?",
+      "options": [
+        "Co-ordination of various decision-making centres",
+        "Design and installation of decision support systems",
+        "Formulation of organisational objectives and policies",
+        "Establishment of multiple decentralised decision-making centres"
+      ],
+      "answer": 1
+    }
+  ]
+}
